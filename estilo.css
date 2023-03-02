@@ -1,9 +1,14 @@
+@font-face { /* Definición de una fuente LearningCurveProRegular */
+font-family: 'Magic-Retro';
+src: url(Fonts/'Magic-Retro.ttf');
+
+
 body
 {background-color: #e4b8ff;
 }
 
 h1
-{font-family: sans-serif;
+{font-family: 'Magic-Retro';
   border: 3px purple inset;
   font-size: 2.25em;
 }
