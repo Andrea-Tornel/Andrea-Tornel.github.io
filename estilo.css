@@ -4,7 +4,7 @@ body
 
 h1
 {font-family: sans-serif;
-  border: 3px #b640ff;
+  border: 3px purple inset;
   font-size: 2.25em;
 }
 
