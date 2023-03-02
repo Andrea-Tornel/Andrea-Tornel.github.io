@@ -4,11 +4,8 @@ body
 
 h1
 {font-family: sans-serif;
-  border: 3px purple inset;
+  border: 3px #b640ff;
   font-size: 2.25em;
 }
 
-h3 
-{font-family: Trebuchet MS;
-}
 
